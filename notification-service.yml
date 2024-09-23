@@ -1,1 +1,10 @@
 
+spring:
+   data:
+     mongodb:
+       username: java
+       password: java
+       host: localhost
+       port: 27017
+       database: notification
+       authentication-database: admin
